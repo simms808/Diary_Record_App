@@ -1,0 +1,1 @@
+from .diary_model import Diary
